@@ -1,3 +1,3 @@
 # climate-app
-app del clima
+app climate
 # nodejs
